@@ -1,4 +1,4 @@
-### Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <img width="100%" style="object-fit: fill" src="img/banner.jpg">
 
@@ -9,3 +9,7 @@ Software development student at Manitoba Institute of Trades and Technology with
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
 ![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=51be8d)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=51be8d)
+
+## Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=JFuller1&theme=dark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFuller1&theme=dark&langs_count=3"/>
