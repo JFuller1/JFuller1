@@ -15,7 +15,3 @@ Software development student at Manitoba Institute of Trades and Technology with
     <img height='190px' align="center" src="https://github-readme-stats.vercel.app/api/?username=JFuller1&theme=dark"/>
     <img height='190px' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFuller1&theme=dark&langs_count=3"/> 
 </div>
-
-## Projects
-- [Intro To Web Development Final Project](https://jfuller1.github.io/Courses/Intro-To-WebDev/Final-Project/index.html)
-- [Javascript Basics Final Project](https://jfuller1.github.io/Courses/JavaScript-Basics/jaeden_fuller_jsb_final_project/index.html)
