@@ -3,7 +3,7 @@
 <img width="100%" style="object-fit: fill" src="img/banner.jpg">
 
 ## About Me
-Software development student at Manitoba Institute of Trades and Technology with nearly 1 year of HTML & CSS experience, 3 months of JavaScript experience and technical writing skills. Enrolled in the Pembina Trails Early College program and en route to graduate high school in a year with a software development college degree. Fully fluent in English and French.
+High school student enrolled in the Pembina Trails Early College/Manitoba Institute of Trades and Technology Software Development program and en route to graduate with a diploma in Software Development alongside my regular high school diploma. Experienced in HTML, CSS, JS, C#, SQL, and Git. I'm fluent in English and French.
 
 ## My Skills
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
